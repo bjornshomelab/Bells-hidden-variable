@@ -6,6 +6,9 @@
 [![PhilPapers](https://img.shields.io/badge/PhilPapers-View-success)](https://philpapers.org/rec/WIKTFA)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+> **Part of the [Applied Philosophy of AI](https://github.com/bjornshomelab/Applied-Ai-Philoaophy-) research ecosystem**  
+> Paper #3 in the FNC Trilogy — Completes theoretical foundation
+
 ---
 
 ## 📄 Abstract
