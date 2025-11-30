@@ -2,7 +2,7 @@
 
 **A Non-Local Ontological Interpretation**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17768926-blue)](https://doi.org/10.5281/zenodo.17768926)
 [![PhilPapers](https://img.shields.io/badge/PhilPapers-View-success)](https://philpapers.org/rec/WIKTFA)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -63,7 +63,7 @@ This paper completes the three-part theoretical foundation:
 **Full Paper:** [`paper/bells_hidden_variable.pdf`](paper/bells_hidden_variable.pdf)
 
 **Published Versions:**
-- **Zenodo:** [DOI: 10.5281/zenodo.XXXXXX](https://doi.org/10.5281/zenodo.XXXXXX) (preprint with DOI)
+- **Zenodo:** [DOI: 10.5281/zenodo.17768926](https://doi.org/10.5281/zenodo.17768926) (preprint with DOI)
 - **PhilPapers:** [PhilArchive Record](https://philpapers.org/rec/WIKTFA)
 - **Academia.edu:** [Author Profile](https://independent.academia.edu/BjörnWikstrom)
 
@@ -115,7 +115,7 @@ This paper completes the three-part theoretical foundation:
   journal={PhilArchive},
   year={2025},
   month={December},
-  doi={10.5281/zenodo.XXXXXX},
+  doi={10.5281/zenodo.17768926},
   url={https://philpapers.org/rec/WIKTFA},
   note={Preprint}
 }
@@ -123,11 +123,11 @@ This paper completes the three-part theoretical foundation:
 
 ### APA
 
-Wikström, B. (2025). *The field as Bell's hidden variable: A non-local ontological interpretation*. PhilArchive. https://doi.org/10.5281/zenodo.XXXXXX
+Wikström, B. (2025). *The field as Bell's hidden variable: A non-local ontological interpretation*. PhilArchive. https://doi.org/10.5281/zenodo.17768926
 
 ### Chicago
 
-Wikström, Björn. "The Field as Bell's Hidden Variable: A Non-Local Ontological Interpretation." PhilArchive (2025). https://doi.org/10.5281/zenodo.XXXXXX
+Wikström, Björn. "The Field as Bell's Hidden Variable: A Non-Local Ontological Interpretation." PhilArchive (2025). https://doi.org/10.5281/zenodo.17768926
 
 ---
 

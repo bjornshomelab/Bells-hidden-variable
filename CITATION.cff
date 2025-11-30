@@ -10,7 +10,7 @@ authors:
     email: bjorn@base76.se
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.XXXXXX"
+    value: "10.5281/zenodo.17768926"
     description: "Zenodo DOI"
 repository-code: "https://github.com/bjornshomelab/Bells-Hidden-Variable"
 url: "https://philpapers.org/rec/WIKTFA"
