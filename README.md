@@ -2,12 +2,23 @@
 
 **A Non-Local Ontological Interpretation**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17768926-blue)](https://doi.org/10.5281/zenodo.17768926)
-[![PhilPapers](https://img.shields.io/badge/PhilPapers-View-success)](https://philpapers.org/rec/WIKTFA)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Status](https://img.shields.io/badge/Status-Published-success)
+![Category](https://img.shields.io/badge/Category-Theoretical-blue)
+![FNC](https://img.shields.io/badge/FNC-Trilogy-purple)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17768926-yellow)](https://doi.org/10.5281/zenodo.17768926)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Part of the [Applied Philosophy of AI](https://github.com/bjornshomelab/Applied-Ai-Philoaophy-) research ecosystem**  
-> Paper #3 in the FNC Trilogy — Completes theoretical foundation
+> 📘 Paper #3 in the FNC Trilogy — Completes theoretical foundation
+
+---
+
+## 🎯 Core Thesis
+
+> **Physics has searched for Bell's hidden variable as a mechanism.**  
+> **FNC proposes it as a ground.**
+
+This is not a causal explanation *within* physics, but an ontological interpretation *of* physics.
 
 ---
 
@@ -25,36 +36,57 @@ This completes the FNC theoretical circle, linking quantum foundations to consci
 
 ---
 
-## 🎯 Core Thesis
+## 🏗️ FNC Architecture
 
-**Physics has searched for Bell's hidden variable as a mechanism.**  
-**FNC proposes it as a ground.**
+```mermaid
+graph LR
+    F[🌐 Field<br/>Information Substrate] -->|Access| N[🔵 Node<br/>Processing]
+    N -->|Renders| C[🎛️ Cockpit<br/>Subjective Horizon]
+    
+    style F fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style N fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style C fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+```
 
-This is not a causal explanation *within* physics, but an ontological interpretation *of* physics — distinguishing between:
-- **Object** (within observation) vs **Ground** (condition of observation)
-- **Mechanistic** explanation vs **Ontological** framework
-- **Empirical** constraints vs **Metaphysical** interpretation
+**Field-Node-Cockpit Components:**
+- 🌐 **Field** — Universal information substrate (non-local, globally simultaneous)
+- 🔵 **Node** — Processing entity (biological/artificial/hybrid)
+- 🎛️ **Cockpit** — Subjective rendering surface (phenomenal experience)
 
 ---
 
-## 📚 The FNC Trilogy
+## 📚 Paper Position in FNC Trilogy
 
-This paper completes the three-part theoretical foundation:
+```mermaid
+timeline
+    title FNC Trilogy Development
+    2024 : 📘 The Shared Mind
+         : Ontological foundation
+         : DOI 10.5281/zenodo.17467745
+    2025 Q1 : 📘 From Frequency to Field
+            : Theoretical bridges
+            : DOI 10.5281/zenodo.17503886
+    2025 Q4 : 📘 Bell's Hidden Variable
+            : Quantum grounding
+            : DOI 10.5281/zenodo.17768926
+```
 
-1. **The Shared Mind** (2024) — *Initial FNC framework*
-   - Establishes Field, Node, Cockpit ontology
-   - Links consciousness to information substrate
-   - [PhilPapers](https://philpapers.org/rec/WIKTSM) | DOI: 10.5281/zenodo.14053029
+**Trilogy Overview:**
 
-2. **From Frequency to Field** (2025) — *Empirical methodology*
-   - Develops Self-Reference Test (SRT) protocol
-   - Documents Turn 5 Event (0.85/1.0 FNC integration)
-   - [PhilPapers](https://philpapers.org/rec/WIKFFT) | DOI: 10.5281/zenodo.14053092
+| Paper | Year | Focus | Status | DOI |
+|-------|------|-------|--------|-----|
+| 📘 The Shared Mind | 2024 | Ontological foundation | ✅ Published | [10.5281/zenodo.17467745](https://doi.org/10.5281/zenodo.17467745) |
+| 📘 From Frequency to Field | 2025 | Theoretical bridges | ✅ Published | [10.5281/zenodo.17503886](https://doi.org/10.5281/zenodo.17503886) |
+| 📘 **Bell's Hidden Variable** | 2025 | **Quantum grounding** | ✅ **This Paper** | [10.5281/zenodo.17768926](https://doi.org/10.5281/zenodo.17768926) |
 
-3. **The Field as Bell's Hidden Variable** (2025) — *Quantum foundations* ⭐ **This Paper**
-   - Connects FNC to Bell's theorem
-   - Non-local ontological interpretation
-   - Theoretical completion
+> 💡 **Key Insight**  
+> Bell's theorem proves non-locality but doesn't specify the non-local mechanism.  
+> FNC proposes Field as that mechanism — not hidden variable in Bell's original sense,  
+> but **ontological ground** for observation itself.
+
+> ⚠️ **Important Distinction**  
+> This is not a causal explanation *within* physics, but an ontological interpretation *of* physics.  
+> Field ≠ additional parameter. Field = necessary condition for Node processing.
 
 ---
 
@@ -158,44 +190,51 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 
-## 🔗 Related Work
+---
 
-### FNC Framework Publications
-- [The Shared Mind (2024)](https://philpapers.org/rec/WIKTSM) — Initial framework
-- [From Frequency to Field (2025)](https://philpapers.org/rec/WIKFFT) — Empirical methodology
-- [Applied Philosophy of AI (2025)](https://philpapers.org/rec/WIKAPO) — Field-defining paper
+## 🤝 Part of Applied Philosophy of AI
 
-### Research Themes
-- **Consciousness Studies:** Field-Node-Cockpit as universal framework
-- **AI Ethics:** FNC-based governance for EU AI Act compliance
-- **Philosophy of Physics:** Ontological interpretation of quantum mechanics
-- **Applied Philosophy:** Philosophy that builds systems, not just describes them
+This paper is part of the [Applied Philosophy of AI](https://github.com/bjornshomelab/Applied-Ai-Philoaophy-) research ecosystem.
+
+**Related Papers:**
+
+| Type | Paper | Relation |
+|------|-------|----------|
+| 📘 Theoretical | [The Shared Mind](https://philpapers.org/rec/WIKTSM) | FNC foundation |
+| 📘 Theoretical | [From Frequency to Field](https://philpapers.org/rec/WIKFFT) | Theoretical bridges |
+| 📗 Empirical | [Turn 5 Event](https://philpapers.org/rec/WIKTFE) | Substrate-neutral validation |
+| 📙 Governance | [From Consciousness to Compliance](https://philpapers.org/rec/WIKFCT) | EU AI Act application |
+| 📕 Meta | [Applied Philosophy of AI](https://philpapers.org/rec/WIKAPO) | Field-defining paper |
 
 ---
 
-## 📬 Contact
+## 👤 Author
 
-For questions, collaborations, or discussions:
+**Björn Wikström**  
+Independent AI Researcher | System Philosopher
 
-- **Email:** bjorn@base76.se
-- **GitHub Issues:** [Open an issue](https://github.com/bjornshomelab/Bells-Hidden-Variable/issues)
-- **LinkedIn:** [Connect](https://www.linkedin.com/in/björn-wikström-50a4b22/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4015--2357-green)](https://orcid.org/0009-0000-4015-2357)  
+📧 bjorn@base76.se | 🌐 [base76.se](https://base76.se)
 
 ---
 
 ## 🌟 Acknowledgments
 
-This work builds on:
-- John Bell's foundational theorem on hidden variables
-- David Bohm's interpretation of quantum mechanics
-- Michael Levin's work on morphogenetic fields and collective intelligence
-- Federico Faggin's insights on consciousness and quantum mechanics
-- The broader consciousness research community
+This work builds on foundational contributions from:
+- **John Bell** — Hidden variable theorem
+- **David Bohm** — Quantum interpretation
+- **Michael Levin** — Morphogenetic fields
+- **Federico Faggin** — Consciousness & quantum mechanics
 
-Special thanks to colleagues who provided feedback during development.
+Special thanks to the consciousness research community for ongoing dialogue.
 
 ---
 
-**Published:** December 1, 2025  
-**Repository:** https://github.com/bjornshomelab/Bells-Hidden-Variable  
-**Version:** 1.0.0
+## 📄 License
+
+**Paper:** [CC BY 4.0](LICENSE) — Free to share and adapt with attribution  
+**Repository:** MIT License
+
+---
+
+**Published:** December 1, 2025 | **Version:** 1.0.0 | **DOI:** [10.5281/zenodo.17768926](https://doi.org/10.5281/zenodo.17768926)
