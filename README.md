@@ -6,6 +6,7 @@
 ![Category](https://img.shields.io/badge/Category-Theoretical-blue)
 ![FNC](https://img.shields.io/badge/FNC-Trilogy-purple)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17768926-yellow)](https://doi.org/10.5281/zenodo.17768926)
+[![PhilPapers](https://img.shields.io/badge/PhilPapers-WIKTFA-blue.svg)](https://philpapers.org/rec/WIKTFA)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Part of the [Applied Philosophy of AI](https://github.com/bjornshomelab/Applied-Ai-Philoaophy-) research ecosystem**  
