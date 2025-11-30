@@ -239,4 +239,4 @@ Special thanks to the consciousness research community for ongoing dialogue.
 
 ---
 
-**Published:** December 1, 2025 | **Version:** 1.0.0 | **DOI:** [10.5281/zenodo.17768926](https://doi.org/10.5281/zenodo.17768926)
+**Published:** November 30, 2025 | **Version:** 1.0.0 | **DOI:** [10.5281/zenodo.17768926](https://doi.org/10.5281/zenodo.17768926)
