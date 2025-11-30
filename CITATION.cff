@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "The Field as Bell's Hidden Variable: A Non-Local Ontological Interpretation"
+authors:
+  - family-names: Wikström
+    given-names: Björn
+    orcid: "https://orcid.org/0009-0000-4015-2357"
+    affiliation: "Base76 Research Lab, Skåne, Sweden"
+    email: bjorn@base76.se
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXX"
+    description: "Zenodo DOI"
+repository-code: "https://github.com/bjornshomelab/Bells-Hidden-Variable"
+url: "https://philpapers.org/rec/WIKTFA"
+abstract: "Bell's theorem excludes local hidden variables but leaves open the question of non-local ontological grounds. This paper argues that the Field–Node–Cockpit (FNC) framework provides such a ground: not as a physical mechanism within observation, but as the precondition for observation itself."
+keywords:
+  - "Bell's theorem"
+  - "hidden variables"
+  - "non-locality"
+  - "consciousness"
+  - "Field-Node-Cockpit"
+  - "philosophy of physics"
+  - "quantum mechanics"
+  - "ontology"
+license: CC-BY-4.0
+date-released: "2025-12-01"
+version: "1.0.0"
